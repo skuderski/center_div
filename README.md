@@ -1,1 +1,1 @@
-Learning how to center a div in css.
+Learning How to center a div in css.
